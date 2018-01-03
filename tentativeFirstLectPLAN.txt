@@ -1,0 +1,20 @@
+Plan:
+*Linear Transformations -- basic LinAlg
+det transform matrix = scale factor
+no code - make exercise
+Perspective -- show zooming -- NOT SAME AS UNDISTORTING
+https://www.youtube.com/watch?v=R9mvvylyUY0
+^good exercise
+(10-20 minutes)
+*Direct Linear Transformation --
+HEAVY LinAlg, light code
+^challenge: find balance
+Homogenous coors, system
+UNDISTORTING
+http://aishack.in/tutorials/calibrating-undistorting-opencv-oh-yeah/
+(15 minutes)
+^If math is simplified:
+**Homographic feature matching
+
+Affine Transform
+Homography
